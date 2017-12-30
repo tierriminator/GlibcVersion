@@ -1,0 +1,4 @@
+module GlibcVersion [system] {
+  header "/usr/include/gnu/libc-version.h"
+  export *
+}
